@@ -49,21 +49,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-6130-3553
 
 interests:
-  - Soft robotics:
-    - Robot design
-    - Fabrication
-    - Mechanics
-    - Actuation
-  - Computer vision:
-    - Image processing
-    - Object tracking
-    - Image generation
-    - Medical imaging
-  - Robotic control
-    - Closed-loop control
-    - Optimal filtering
-    - Path planning
-    - Arm control
+  - Soft robotics:Robot design,Fabrication,Mechanics,Actuation.
+  - Computer vision: Image processing, Object tracking, Image generation, Medical imaging.
+  - Robotic control: Closed-loop control, Optimal filtering, Path planning, Arm control.
 
 
 education:
@@ -129,8 +117,8 @@ skills:
     items:
       - name: Fabrication
         description: 'fabrication of '
-        percent: 80
-        icon: code-bracket
+        # percent: 80
+        # icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
