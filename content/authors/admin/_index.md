@@ -26,7 +26,7 @@ role: Doctoral researcher
 organizations:
   - name: D-ITET, ETH Zürich
     url: https://ee.ethz.ch/
-  - name: D-PI, Max Planck Insitute for Intelligent Systems
+  - name: D-PI, MPI-IS
     url: https://is.mpg.de/
 
 # Social network links
@@ -49,13 +49,26 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-6130-3553
 
 interests:
-  - Soft robotics
-  - Computer vision
+  - Soft robotics:
+    - Robot design
+    - Fabrication
+    - Mechanics
+    - Actuation
+  - Computer vision:
+    - Image processing
+    - Object tracking
+    - Image generation
+    - Medical imaging
   - Robotic control
+    - Closed-loop control
+    - Optimal filtering
+    - Path planning
+    - Arm control
+
 
 education:
   - area: Ph.D. Medical robotics
-    institution: ETH Zürich, MPI-IS
+    institution: ETH Zürich, Max Planck Insitute for Intelligent Systems
     date_start: 2021-09-01
     date_end: 2025-09-30
     summary: |
@@ -112,10 +125,10 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Miniature magnetic soft robots
     items:
-      - name: Python
-        description: ''
+      - name: Fabrication
+        description: 'fabrication of '
         percent: 80
         icon: code-bracket
       - name: Data Science
