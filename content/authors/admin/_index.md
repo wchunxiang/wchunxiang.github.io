@@ -73,21 +73,12 @@ education:
     summary: |
       IELTS: 7.5/9.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Automation
     institution: Harbin Institute of Technology
     date_start: 2019-07-01
     date_end: 2015-09-01
     summary: |
       GPA: 93.9/100
-      
-      # Representative courses:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
