@@ -24,16 +24,16 @@ role: Doctoral researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Dept. of Information Technology and Electrical Engineering, ETH Zürich
+  - name: D-ITET, ETH Zürich
     url: https://ee.ethz.ch/
-  - name: Dept. of Physical Intelligence, Max Planck Insitute for Intelligent Systems
+  - name: D-PI, Max Planck Insitute for Intelligent Systems
     url: https://is.mpg.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'chunxiang@is.mpg.de'
+    url: 'luoyeguigenno1@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/CXLYGG
@@ -44,70 +44,70 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/chunxiang-wang-b0416327a/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=7XA2EzoAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0000-0002-6130-3553
 
-Research interests:
-  - Soft robotics ()
-  - Computational Linguistics
-  - Information Retrieval
+interests:
+  - Soft robotics
+  - Computer vision
+  - Robotic control
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Medical robotics
+    institution: ETH Zürich, MPI-IS
+    date_start: 2021-09-01
+    date_end: 2025-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on Advanced Functional Soft Miniature Robotic Systems for Biomedical Applications. Supervised by [Prof Metin Sitti](https://scholar.google.com/citations?user=YU4Ce_MAAAAJ&hl=en&oi=ao). 
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MEng Automation
+    institution: Harbin Institute of Technology
+    date_start: 2021-07-01
+    date_end: 2019-09-01
     summary: |
-      GPA: 3.8/4.0
+      IELTS: 7.5/9.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Automation
+    institution: Harbin Institute of Technology
+    date_start: 2019-07-01
+    date_end: 2015-09-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 93.9/100
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Representative courses:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -145,11 +145,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: Full professional proficiency
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: Native
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
