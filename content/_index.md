@@ -80,7 +80,7 @@ sections:
         > Ps, Ai, Pr, C4D, Keyshot
 
     design:
-      columns: 2
+      columns: 1
       view: article-grid
       # For the Showcase view, do you want to flip alternate rows?
       # flip_alt_rows: true 
