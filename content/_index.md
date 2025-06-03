@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -50,14 +50,14 @@ sections:
       text: |-
        <div class="expertise-block">
         
-        ## Miniature soft robotics
+        ### Miniature soft robotics
         > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
         1. Robot design
         1. Fabrication
         1. Mechanical model
         1. Magnetic actuation
         
-        ## Computer vision
+        ### Computer vision
         > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
         1. Image processing
         1. Object detection, segmentation, tracking
@@ -65,7 +65,7 @@ sections:
         1. Medical imaging: X-ray, Ultrsound, Photo-acoustic.
         
 
-        ## Robotic control: 
+        ### Robotic control: 
         > ROS, Franka-emika Arm, C++...
         1. Closed-loop robotic control systems:
           - Dual-robotic arm integrating ultrasound imaging and magnetic actuation
@@ -76,7 +76,7 @@ sections:
         5. Robotic micromanipulation
         
 
-        ## Multimedia Technology
+        ### Multimedia Technology
         > Ps, Ai, Pr, C4D, Keyshot
 
     design:
