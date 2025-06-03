@@ -38,14 +38,14 @@ header:
       text: "Chunxiang Wang"
 
 # Site footer
-# footer:
-#   copyright:
-#     notice: ''
-#     license:
-#       enable: false
-#       allow_derivatives: false
-#       share_alike: false
-#       allow_commercial: false
+footer:
+  copyright:
+    notice: ''
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: false
+      allow_commercial: false
 
 # Localization
 locale:
@@ -58,3 +58,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+params:
+  assets:
+    css:
+      - "css/custom.css"

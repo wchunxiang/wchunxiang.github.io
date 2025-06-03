@@ -48,7 +48,6 @@ sections:
       title: '📚 Expertise'
       subtitle: ''
       text: |-
-
         ## Miniature soft robotics
         1. Robot design
         1. Fabrication
