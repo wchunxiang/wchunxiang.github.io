@@ -48,9 +48,10 @@ sections:
       title: '📚 Expertise'
       subtitle: ''
       text: |-
-        <div class="expertise-wrapper">
-        <div class="expertise-columns">
-          <div class="column">
+
+        <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: space-between;">
+
+          <div style="flex: 1 1 48%; min-width: 300px;">
             <h3>Miniature soft robotics</h3>
             <ul>
               <li>Robot design</li>
@@ -70,7 +71,7 @@ sections:
             <p><em>Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...</em></p>
           </div>
 
-          <div class="column">
+          <div style="flex: 1 1 48%; min-width: 300px;">
             <h3>Robotic control</h3>
             <ul>
               <li>Closed-loop control systems</li>
@@ -84,8 +85,9 @@ sections:
             <h3>Multimedia Technology</h3>
             <p><em>Ps, Ai, Pr, C4D, Keyshot</em></p>
           </div>
+
         </div>
-        </div>
+
 
     design:
       columns: '1'
