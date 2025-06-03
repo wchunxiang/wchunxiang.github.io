@@ -42,7 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-sections:
+
   - block: markdown
     content:
       title: '📚 Expertise'
@@ -78,8 +78,10 @@ sections:
 
     design:
       columns: '2'
-      
-sections:
+      view: showcase
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true 
+
   - block: collection
     id: papers
     content:
