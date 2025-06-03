@@ -48,7 +48,7 @@ sections:
       title: '📚 Expertise'
       subtitle: ''
       text: |-
-       <div class="expertise-columns">
+      <div class="expertise-columns">
 
       <div class="column">
       <h3>Miniature soft robotics</h3>
