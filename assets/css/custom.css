@@ -3,12 +3,6 @@
   max-width: 100%;    /* Or any specific value like 800px */
 }
 
-.expertise-block {
-  font-size: 0.9rem;
-  max-width: 1200px !important;
-  width: 100%;
-  margin: 0 auto;
-}
 
 .expertise-columns {
   display: flex !important;
@@ -31,3 +25,21 @@
   padding: 0 !important;
   margin: 0 !important;
 }
+
+/* Force your expertise block container to be wide and centered */
+.expertise-block {
+  max-width: 1200px !important;
+  width: 95% !important;
+  margin: 0 auto !important;
+  padding: 0 1rem !important;
+}
+
+/* Make the direct inner flex container full width */
+.expertise-block .expertise-columns {
+  width: 100% !important;
+}
+
+.expertise-block {
+  border: 3px solid red !important;
+}
+
