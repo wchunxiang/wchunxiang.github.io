@@ -2,3 +2,9 @@
   font-size: 0.9rem;  /* Adjust as needed, e.g., 0.8rem, 1rem */
   max-width: 100%;    /* Or any specific value like 800px */
 }
+
+.expertise-block {
+  font-size: 0.9rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
