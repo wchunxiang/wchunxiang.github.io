@@ -52,7 +52,7 @@ interests:
   # - Soft robotics:Robot design,Fabrication,Mechanics,Actuation.
   # - Computer vision: Image processing, Object tracking, Image generation, Medical imaging.
   # - Robotic control: Closed-loop control, Optimal filtering, Path planning, Arm control.
-  - Soft robotics
+  - Miniature soft robotics
   - Computer vision
   - Robotic control
 
@@ -72,7 +72,7 @@ education:
     date_end: 2019-09-01
     summary: |
       IELTS: 7.5/9.0
-      Thesis on Automated High-throughput Quantification of Zebrafish Larvae Hroup Movement. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en). 
+      Thesis on Automated High-throughput Quantification of Zebrafish Larvae Group Movement. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en). 
 
   - area: BSc Automation
     institution: Harbin Institute of Technology
@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chunxiang Wang is a Ph.D. student in robotics at ETH Zürich and MPI-IS (about to graduate on Oct. 2025), where he specializes in miniature medical robotic systems. He earned his B.Eng. and M.Sc. degrees from the Harbin Institute of Technology (HIT) supervised by Prof. Huijun Gao, graduating with a distinguished GPA of 93.75/100. Under the supervision of Prof. Metin Sitti, his research focuses on soft millirobots with novel functionalities, integrating image processing and closed-loop robotic control. His work has been published in prestigious venues such as Science Advances and the IEEE Transactions series. Chunxiang has received numerous accolades, including the Max Planck Fellowship, several top-tier scholarships, and awards for Best Graduation Thesis. He also serves as a peer reviewer for leading journals and international conferences in the field.
