@@ -12,14 +12,12 @@
 
 .expertise-columns {
   display: flex;
-  gap: 2rem;
-  max-width: 1000px;
-  margin: 0 auto;
-  font-size: 0.9rem;
   flex-wrap: wrap;
+  gap: 2rem;
+  font-size: 0.9rem;
 }
 
-.expertise-columns .column {
-  flex: 1;
+.expertise-columns > .column {
+  flex: 1 1 45%;
   min-width: 300px;
 }
