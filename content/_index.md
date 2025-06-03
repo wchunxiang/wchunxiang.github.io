@@ -48,11 +48,31 @@ sections:
       title: '📚 Expertise'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        # Miniature soft robotics
+        1. Robot design
+        1. Fabrication
+        1. Mechanical model
+        1. Magnetic actuation
+        > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
+
+        # Computer vision
+        1. Image processing
+        1. Object detection, segmentation, tracking
+        1. Generative models
+        1. Medical imaging: X-ray, Ultrsound, Photo-acoustic.
+        > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
+
+        # Robotic control: 
+        1. Closed-loop robotic control systems:
+          - Dual-robotic arm integrating ultrasound imaging and magnetic actuation
+          - C-arm fluoroscopy and magnetic actuation
+        1. Optimal filtering (e.g. Adaptive Kalman Filter, Particle Filter)
+        1. Path planning
+        1. Robotic arm control
+        1. Robotic micromanipulation
+        > ROS, Franka-emika arm, C++...
+
     design:
       columns: 2
 
