@@ -78,9 +78,11 @@ sections:
 
     design:
       columns: '2'
-      view: showcase
+      view: compact
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true 
+      spacing:
+        padding: [0, 0, 0, 0]
 
   - block: collection
     id: papers
