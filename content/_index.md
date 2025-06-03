@@ -49,9 +49,10 @@ sections:
       subtitle: ''
       text: |-
 
-        <table width="100%">
+        <div style="max-width: 900px; margin: 0 auto;">
+        <table style="width: 100%; border-collapse: collapse;">
         <tr>
-          <td width="50%" valign="top">
+          <td style="width: 50%; vertical-align: top; padding-right: 1rem;">
 
           ### Miniature soft robotics
           - Robot design  
@@ -68,7 +69,7 @@ sections:
           *Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...*
 
           </td>
-          <td width="50%" valign="top">
+          <td style="width: 50%; vertical-align: top; padding-left: 1rem;">
 
           ### Robotic control
           - Closed-loop robotic control systems  
@@ -84,6 +85,7 @@ sections:
           </td>
         </tr>
         </table>
+        </div>
 
     design:
       columns: '1'
