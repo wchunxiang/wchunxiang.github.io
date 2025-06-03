@@ -11,13 +11,16 @@
 }
 
 .expertise-columns {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  font-size: 0.9rem;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 2rem !important;
+  font-size: 0.9rem !important;
+  justify-content: space-between;
+  max-width: 1000px !important;
+  margin: 0 auto !important;
 }
 
 .expertise-columns > .column {
-  flex: 1 1 45%;
-  min-width: 300px;
+  flex: 1 1 48% !important;
+  min-width: 300px !important;
 }

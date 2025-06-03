@@ -48,43 +48,43 @@ sections:
       title: '📚 Expertise'
       subtitle: ''
       text: |-
+        <div class="expertise-wrapper">
         <div class="expertise-columns">
+          <div class="column">
+            <h3>Miniature soft robotics</h3>
+            <ul>
+              <li>Robot design</li>
+              <li>Fabrication</li>
+              <li>Mechanical model</li>
+              <li>Magnetic actuation</li>
+            </ul>
+            <p><em>Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...</em></p>
 
-        <div class="column">
-          <h3>Miniature soft robotics</h3>
-          <ul>
-            <li>Robot design</li>
-            <li>Fabrication</li>
-            <li>Mechanical model</li>
-            <li>Magnetic actuation</li>
-          </ul>
-          <p><em>Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...</em></p>
+            <h3>Computer vision</h3>
+            <ul>
+              <li>Image processing</li>
+              <li>Object detection, segmentation, tracking</li>
+              <li>Generative models</li>
+              <li>Medical imaging: X-ray, Ultrasound, Photo-acoustic</li>
+            </ul>
+            <p><em>Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...</em></p>
+          </div>
 
-          <h3>Computer vision</h3>
-          <ul>
-            <li>Image processing</li>
-            <li>Object detection, segmentation, tracking</li>
-            <li>Generative models</li>
-            <li>Medical imaging: X-ray, Ultrasound, Photo-acoustic</li>
-          </ul>
-          <p><em>Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...</em></p>
+          <div class="column">
+            <h3>Robotic control</h3>
+            <ul>
+              <li>Closed-loop control systems</li>
+              <li>Optimal filtering (Kalman, Particle Filter)</li>
+              <li>Path planning</li>
+              <li>Robotic arm control</li>
+              <li>Micromanipulation</li>
+            </ul>
+            <p><em>ROS, Franka-emika Arm, C++...</em></p>
+
+            <h3>Multimedia Technology</h3>
+            <p><em>Ps, Ai, Pr, C4D, Keyshot</em></p>
+          </div>
         </div>
-
-        <div class="column">
-          <h3>Robotic control</h3>
-          <ul>
-            <li>Closed-loop control systems</li>
-            <li>Optimal filtering (Kalman, Particle Filter)</li>
-            <li>Path planning</li>
-            <li>Robotic arm control</li>
-            <li>Micromanipulation</li>
-          </ul>
-          <p><em>ROS, Franka-emika Arm, C++...</em></p>
-
-          <h3>Multimedia Technology</h3>
-          <p><em>Ps, Ai, Pr, C4D, Keyshot</em></p>
-        </div>
-
         </div>
 
     design:
