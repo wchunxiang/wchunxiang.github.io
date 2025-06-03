@@ -47,7 +47,7 @@ sections:
     content:
       title: '📚 Expertise'
       subtitle: ''
-      text: 
+      text: |-
 
       ```markmap {height="400px"}
       - Miniature soft robotics
