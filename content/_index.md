@@ -51,20 +51,22 @@ sections:
        <div class="expertise-block">
         
         ## Miniature soft robotics
+        > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
         1. Robot design
         1. Fabrication
         1. Mechanical model
         1. Magnetic actuation
-        > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
-
+        
         ## Computer vision
+        > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
         1. Image processing
         1. Object detection, segmentation, tracking
         1. Generative models
         1. Medical imaging: X-ray, Ultrsound, Photo-acoustic.
-        > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
+        
 
         ## Robotic control: 
+        > ROS, Franka-emika Arm, C++...
         1. Closed-loop robotic control systems:
           - Dual-robotic arm integrating ultrasound imaging and magnetic actuation
           - C-arm fluoroscopy and magnetic actuation
@@ -72,13 +74,13 @@ sections:
         3. Path planning
         4. Robotic arm control
         5. Robotic micromanipulation
-        > ROS, Franka-emika Arm, C++...
+        
 
         ## Multimedia Technology
         > Ps, Ai, Pr, C4D, Keyshot
 
     design:
-      columns: '1'
+      columns: '2'
       # view: list
       # For the Showcase view, do you want to flip alternate rows?
       # flip_alt_rows: true 
