@@ -62,7 +62,7 @@ education:
     date_start: 2021-09-01
     date_end: 2025-09-30
     summary: |
-      Thesis on Advanced Functional Soft Miniature Robotic Systems for Biomedical Applications. Supervised by [Prof Metin Sitti](https://scholar.google.com/citations?user=YU4Ce_MAAAAJ&hl=en&oi=ao). 
+      Thesis on Advanced Functional Soft Miniature Robotic Systems for Biomedical Applications. Supervised by [Prof. Metin Sitti](https://scholar.google.com/citations?user=YU4Ce_MAAAAJ&hl=en&oi=ao). 
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -72,6 +72,7 @@ education:
     date_end: 2019-09-01
     summary: |
       IELTS: 7.5/9.0
+      Thesis on Automated High-throughput Quantification of Zebrafish Larvae Hroup Movement. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en). 
 
   - area: BSc Automation
     institution: Harbin Institute of Technology
@@ -139,9 +140,9 @@ skills:
 
 languages:
   - name: English
-    percent: Full professional proficiency
+    percent: 90
   - name: Chinese
-    percent: Native
+    percent: 100
   # - name: Portuguese
   #   percent: 25
 
