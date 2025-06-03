@@ -9,3 +9,17 @@
   width: 100%;
   margin: 0 auto;
 }
+
+.expertise-columns {
+  display: flex;
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 0.9rem;
+  flex-wrap: wrap;
+}
+
+.expertise-columns .column {
+  flex: 1;
+  min-width: 300px;
+}

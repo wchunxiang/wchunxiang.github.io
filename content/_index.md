@@ -48,39 +48,49 @@ sections:
       title: '📚 Expertise'
       subtitle: ''
       text: |-
-       <div class="expertise-block">
-        
-        ## Miniature soft robotics
-        > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
-        1. Robot design
-        1. Fabrication
-        1. Mechanical model
-        1. Magnetic actuation
-        
-        ## Computer vision
-        > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
-        1. Image processing
-        1. Object detection, segmentation, tracking
-        1. Generative models
-        1. Medical imaging: X-ray, Ultrsound, Photo-acoustic.
-        
+       <div class="expertise-columns">
 
-        ## Robotic control: 
-        > ROS, Franka-emika Arm, C++...
-        1. Closed-loop robotic control systems:
-          - Dual-robotic arm integrating ultrasound imaging and magnetic actuation
-          - C-arm fluoroscopy and magnetic actuation
-        2. Optimal filtering (e.g. Adaptive Kalman Filter, Particle Filter)
-        3. Path planning
-        4. Robotic arm control
-        5. Robotic micromanipulation
-        
+      <div class="column">
+      <h3>Miniature soft robotics</h3>
+      <p><em>Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...</em></p>
+      <ul>
+        <li>Robot design</li>
+        <li>Fabrication</li>
+        <li>Mechanical model</li>
+        <li>Magnetic actuation</li>
+      </ul>
+      
 
-        ## Multimedia Technology
-        > Ps, Ai, Pr, C4D, Keyshot
+      <h3>Computer vision</h3>
+      <p><em>Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...</em></p>
+      <ul>
+        <li>Image processing</li>
+        <li>Object detection, segmentation, tracking</li>
+        <li>Generative models</li>
+        <li>Medical imaging: X-ray, Ultrasound, Photo-acoustic</li>
+      </ul>
+      </div>
+
+      <div class="column">
+      <h3>Robotic control</h3>
+      <p><em>ROS, Franka-emika Arm, C++...</em></p>
+      <ul>
+        <li>Closed-loop control systems</li>
+        <li>Optimal filtering (Kalman, Particle Filter)</li>
+        <li>Path planning</li>
+        <li>Robotic arm control</li>
+        <li>Micromanipulation</li>
+      </ul>
+      
+
+      <h3>Multimedia Technology</h3>
+      <p><em>Ps, Ai, Pr, C4D, Keyshot</em></p>
+      </div>
+
+      </div>
 
     design:
-      columns: 2
+      columns: '1'
       # view: list
       # For the Showcase view, do you want to flip alternate rows?
       # flip_alt_rows: true 
