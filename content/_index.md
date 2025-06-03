@@ -71,18 +71,18 @@ sections:
         3. Path planning
         4. Robotic arm control
         5. Robotic micromanipulation
-        > ROS, Franka-emika arm, C++...
+        > ROS, Franka-emika Arm, C++...
 
         ## Multimedia Technology
         > Ps, Ai, Pr, C4D, Keyshot
 
     design:
       columns: '2'
-      view: compact
+      view: list
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true 
-      spacing:
-        padding: [0, 0, 0, 0]
+      # flip_alt_rows: true 
+      # spacing:
+      #   padding: [0, 0, 0, 0]
 
   - block: collection
     id: papers
