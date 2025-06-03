@@ -5,6 +5,7 @@
 
 .expertise-block {
   font-size: 0.9rem;
-  max-width: 900px;
+  max-width: 900px !important;
+  width: 100%;
   margin: 0 auto;
 }
