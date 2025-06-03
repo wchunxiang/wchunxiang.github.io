@@ -3,43 +3,11 @@
   max-width: 100%;    /* Or any specific value like 800px */
 }
 
-
-.expertise-columns {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  gap: 2rem !important;
-  font-size: 0.9rem !important;
-  justify-content: space-between;
-  max-width: 1000px !important;
-  margin: 0 auto !important;
-}
-
-.expertise-columns > .column {
-  flex: 1 1 48% !important;
-  min-width: 300px !important;
-}
-
-.container, .blox-wrapper, .content-area {
-  max-width: none !important;
-  width: 100% !important;
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
-/* Force your expertise block container to be wide and centered */
 .expertise-block {
+  font-size: 0.9rem;
   max-width: 1200px !important;
-  width: 95% !important;
-  margin: 0 auto !important;
-  padding: 0 1rem !important;
+  width: 100%;
+  margin: 0 auto;
 }
 
-/* Make the direct inner flex container full width */
-.expertise-block .expertise-columns {
-  width: 100% !important;
-}
-
-.expertise-block {
-  border: 3px solid red !important;
-}
 
