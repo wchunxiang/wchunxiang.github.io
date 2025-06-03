@@ -42,48 +42,44 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-
+sections:
   - block: markdown
     content:
       title: '📚 Expertise'
       subtitle: ''
       text: |-
 
-      ```markmap {height="400px"}
-      - Miniature soft robotics
-        - Robot design
-        - Fabrication
-        - Mechanical model
-        - Magnetic actuation
-          > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
-      - Computer vision
-        - Image processing
-        - Object detection, segmentation, tracking
-        - Generative models
-        - Medical imaging
-          - X-ray
-          - Ultrasound
-          - Photo-acoustic
-          > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
-      - Robotic control
-        - Closed-loop robotic control systems
+        ## Miniature soft robotics
+        1. Robot design
+        1. Fabrication
+        1. Mechanical model
+        1. Magnetic actuation
+        > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
+
+        ## Computer vision
+        1. Image processing
+        1. Object detection, segmentation, tracking
+        1. Generative models
+        1. Medical imaging: X-ray, Ultrsound, Photo-acoustic.
+        > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
+
+        ## Robotic control: 
+        1. Closed-loop robotic control systems:
           - Dual-robotic arm integrating ultrasound imaging and magnetic actuation
           - C-arm fluoroscopy and magnetic actuation
-        - Optimal filtering
-          - Adaptive Kalman Filter
-          - Particle Filter
-        - Path planning
-        - Robotic arm control
-        - Robotic micromanipulation
-          > ROS, Franka-emika arm, C++...
-      - Multimedia Technology
-        > Ps, Ai, Pr, C4D, Keyshot
-    ```
+        2. Optimal filtering (e.g. Adaptive Kalman Filter, Particle Filter)
+        3. Path planning
+        4. Robotic arm control
+        5. Robotic micromanipulation
+        > ROS, Franka-emika arm, C++...
 
+        ## Multimedia Technology
+        > Ps, Ai, Pr, C4D, Keyshot
 
     design:
-      columns: 2
-
+      columns: '2'
+      
+sections:
   - block: collection
     id: papers
     content:
