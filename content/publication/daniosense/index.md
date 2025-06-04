@@ -28,7 +28,7 @@ tags:
 - Multi-object trakcing
 - Image processing 
 - Adaptive Kalman filter
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -63,6 +63,7 @@ projects: []
 #   Otherwise, set `slides: ""`. {{</* video src="my_video.mp4" controls="yes" */>}}
 slides: ""
 ---
+{{</* video src="DanioSense.mp4" controls="yes" */>}}
 
 ## 1. **Challenges Addressed**
 * **Occlusion Handling**: Addresses frequent intersections and identity switches among zebrafish larvae due to similar appearance and transparent bodies.
