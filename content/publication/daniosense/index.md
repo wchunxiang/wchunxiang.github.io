@@ -4,11 +4,11 @@ authors:
 - admin
 author_notes:
 - "First author"
-date: "2022-04"
+date: "2022-04-01"
 doi: "doi: 10.1109/TASE.2021.3050408"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04"
+publishDate: "2022-04-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
