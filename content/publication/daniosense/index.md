@@ -60,10 +60,9 @@ projects: []
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
+#   Otherwise, set `slides: ""`. {{</* video src="my_video.mp4" controls="yes" */>}}
 slides: ""
 ---
-{{< bilibili id="BV1WV4y1r7DF" >}}
 
 ## 1. **Challenges Addressed**
 * **Occlusion Handling**: Addresses frequent intersections and identity switches among zebrafish larvae due to similar appearance and transparent bodies.
