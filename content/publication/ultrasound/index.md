@@ -5,7 +5,7 @@ authors:
 author_notes:
 - "First author"
 date: "2025-10-01"
-doi: "doi: 10.1109/TASE.2021.3050408"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-10-01"
@@ -16,7 +16,7 @@ publishDate: "2025-10-01"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/ASME Transactions on Mechatronics (in press)"
+publication: "IEEE Transactions on Mechatronics (in press)"
 publication_short: ""
 
 abstract: Wireless miniature robots are promising for minimally invasive biomedical applications. Effective tracking and navigation are essential for their safe deployment, but challenges persist in medical imaging and robot control, especially in localizing the robot in complex imaging scenes. Deep learning, though powerful for object identification, requires large supervised datasets, limiting its clinical applications due to the difficulty and cost of acquiring realistic data. Furthermore, miniature robotsfrequently exit the field of view of imaging systems, hindering continuous observation. Here, we present a framework for real-time magnetic navigation of wireless miniature robots using ultrasound imaging, leveraging synthetic data generation for deep learning-based detection. First, artificially generated synthetic data is combined with real data from synthetic materials to train a neural network capable of detecting versatile robots in real tissues. Then, a robotic system is developed to automatically track the robot with an ultrasound probe during magnetic actuation in tortuous lumens. With 85% less human-labeled data within synthetic materials, our approach effectively detects versatile robots in ex-vivo tissues, reducing data scarcity, imbalance, and manual labeling burdens. Demonstrations of automatic robot navigation through tortuous lumens in complex ultrasound scenes validate its effectiveness, enhancing the safe applicability of miniature medical robots in complex environments.
@@ -29,7 +29,7 @@ tags:
 - Magnetic control
 - Robotic arm
 - Path planning
-featured: false
+featured: true
 
 # links:
 # - name: ""
