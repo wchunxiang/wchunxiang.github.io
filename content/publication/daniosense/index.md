@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "DanioSense: Automated High-Throughput Quantification of Zebrafish Larvae Group Movement"
 authors:
 - admin
 author_notes:
@@ -63,8 +63,7 @@ projects: []
 #   Otherwise, set `slides: ""`. {{</* video src="my_video.mp4" controls="yes" */>}}
 slides: ""
 ---
-{{</* video src="DanioSense.mp4" controls="yes" */>}}
-
+    {{</* video src="DanioSense.mp4" controls="yes" */>}}
 ## 1. **Challenges Addressed**
 * **Occlusion Handling**: Addresses frequent intersections and identity switches among zebrafish larvae due to similar appearance and transparent bodies.
 * **Discontinuous Kinematics**: Overcomes the challenge of erratic movements (static periods followed by sudden bursts), which make traditional motion models ineffective.
