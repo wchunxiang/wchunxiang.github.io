@@ -22,7 +22,7 @@ publication_short: ""
 abstract: The capability to obtain detailed motility information of model organisms is fundamental to reveal their functional and social behavior characteristics. Zebrafish is a powerful vertebrate model organism. Despite recent success in the automatic quantification of adult zebrafish movement, it remains a laborious task for group zebrafish larval tracking due to their similar appearance, frequent occlusions, and highly discontinuous kinematics. This article presents DanioSense (DS), an automatic tracker for group larval zebrafish, to overcome these tracking challenges. The integration of a light convolutional neural network and a centerline extraction algorithm enables the tracker to localize individuals even in occlusion cases where objects’ identities are prone to switch. With reliable detections, an adaptive Kalman filter is designed to optimally estimate locomotive parameters, which is also used for object reidentification accomplished by a two-stage data association protocol. Experimental results demonstrated a tracking accuracy of over 97%, median errors of 102 μm , and 8.8° for the position and orientation measurement, and a processing speed of over 30 frames/s with a normal computer configuration. DS provides detailed quantitative data for a large-scale larvae group in nearly real time, highly boosting the efficiency of characterizing individual phenotypes and analyzing social interactions.
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Daniosense'
 
 tags:
 - Multi-object trakcing
@@ -69,9 +69,9 @@ slides: ""
 * **Discontinuous Kinematics**: Overcomes the challenge of erratic movements (static periods followed by sudden bursts), which make traditional motion models ineffective.
 * **High-Throughput Requirements**: Meets the need for real-time tracking of large larval groups, crucial for biomedical research such as genetics and drug screening.
 
-**Bilibili**:
-
+---------------------
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
+---------------------
 
 ## 2. **Core Techniques**
 
