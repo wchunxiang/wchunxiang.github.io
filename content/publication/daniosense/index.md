@@ -62,16 +62,14 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`. {{</* video src="my_video.mp4" controls="yes" */>}}
 slides: ""
----
     {{</* video src="DanioSense.mp4" controls="yes" */>}}
+---
+
 ## 1. **Challenges Addressed**
 * **Occlusion Handling**: Addresses frequent intersections and identity switches among zebrafish larvae due to similar appearance and transparent bodies.
 * **Discontinuous Kinematics**: Overcomes the challenge of erratic movements (static periods followed by sudden bursts), which make traditional motion models ineffective.
 * **High-Throughput Requirements**: Meets the need for real-time tracking of large larval groups, crucial for biomedical research such as genetics and drug screening.
 
----------------------
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
----------------------
 
 ## 2. **Core Techniques**
 
