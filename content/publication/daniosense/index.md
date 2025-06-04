@@ -62,7 +62,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`. {{</* video src="my_video.mp4" controls="yes" */>}}
 slides: ""
-    {{</* video src="DanioSense.mp4" controls="yes" */>}}
+
+{{</* video src="DanioSense.mp4" controls="yes" */>}}
 ---
 
 ## 1. **Challenges Addressed**
