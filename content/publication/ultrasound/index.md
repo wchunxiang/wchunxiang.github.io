@@ -4,11 +4,11 @@ authors:
 - admin
 author_notes:
 - "First author"
-date: "2025-10-01"
+date: "2025-6-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-01"
+publishDate: "2025-6-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: "https://wchunxiang.github.io/"
 url_code: ""
 url_dataset: ''
 url_poster: ''
