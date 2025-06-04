@@ -117,3 +117,5 @@ slides: ""
 
 ![5](5.JPG)
 ![8](8.JPG)
+
+> For more details, refer to "Wang, Chunxiang, et al. "Heterogeneous multiple soft millirobots in three-dimensional lumens." Science Advances 10.45 (2024): eadq1951."
