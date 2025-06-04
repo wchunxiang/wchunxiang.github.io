@@ -69,6 +69,10 @@ slides: ""
 * **Discontinuous Kinematics**: Overcomes the challenge of erratic movements (static periods followed by sudden bursts), which make traditional motion models ineffective.
 * **High-Throughput Requirements**: Meets the need for real-time tracking of large larval groups, crucial for biomedical research such as genetics and drug screening.
 
+**Bilibili**:
+
+    {{</* bilibili id="BV1WV4y1r7DF" */>}}
+
 ## 2. **Core Techniques**
 
 ### 2.1 **Image Preprocessing**
