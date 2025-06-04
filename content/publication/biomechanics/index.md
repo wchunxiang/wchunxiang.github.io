@@ -25,7 +25,10 @@ abstract: Implanted electronic sensors, compared with conventional medical imagi
 summary: Wireless miniature soft robots offer a minimally invasive way to continuously monitor physiological properties of soft tissues, like pH and viscoelasticity, by precisely recovering tissue properties from their shape and external magnetic fields.
 
 tags:
-- Mechanics - Image processing - Magnetic control
+- Mechanics 
+- Image processing 
+- Magnetic control
+- Medical imaging
 featured: true
 
 # links:
@@ -62,8 +65,6 @@ projects: []
 slides: ""
 ---
 
----
-> **Key techniques**
 ---
 ### Interdisciplinary Expertise
 
