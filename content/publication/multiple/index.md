@@ -75,7 +75,7 @@ slides: ""
 * **Robotic systems:** Dual-arm robotic system for ultrasound tracking and magnetic actuation.
 * **Materials Science:** Utilization of polymers for soft robot fabrication.
 -------
-
+{{< video src="S2.mp4" controls="yes" >}}
 ---
 ### 1. Robot Design and Actuation
 
