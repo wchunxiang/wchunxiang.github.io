@@ -1,7 +1,7 @@
 ---
 title: Soft robot for sensing tissue properties
 date: 2021-09-01
-external_link: https://www.science.org/doi/10.1126/sciadv.adg3988
+external_link: https://wchunxiang.github.io/publication/biomechanics/
 tags:
   - Mechanics 
   - Image processing 
@@ -9,6 +9,6 @@ tags:
   - Medical imaging
 ---
 
-Wireless miniature soft robots offer a minimally invasive way to continuously monitor physiological properties of soft tissues, like pH and viscoelasticity, by precisely recovering tissue properties from their shape and external magnetic fields.
+Wireless miniature soft robots that continuously monitor physiological properties of soft tissues.
 
 <!--more-->
