@@ -4,11 +4,11 @@ authors:
 - admin
 author_notes:
 - "First author"
-date: "2025-6-01"
+date: "2025-06-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-6-01"
+publishDate: "2025-06-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
