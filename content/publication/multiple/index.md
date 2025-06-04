@@ -25,7 +25,7 @@ abstract: Miniature soft robots offer opportunities for safe and physically adap
 summary: This work introduces a framework for independently controlling multiple miniature magnetic soft robots within complex 3D tubular structures. It leverages the robots' shape adaptability and varied resistance from their interaction with the lumen walls, along with a path planning algorithm, to enable applications like multi-location cargo delivery and flow diversion.
 
 tags:
-- Journal cover
+- Featured article (Science Advances)
 - Mechanics
 - Magnetic control
 - Robotic arm

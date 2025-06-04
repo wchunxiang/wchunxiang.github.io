@@ -16,7 +16,7 @@ publishDate: "2025-06-01"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Mechatronics (in press)"
+publication: "IEEE/ASME Transactions on Mechatronics (in press)"
 publication_short: ""
 
 abstract: Wireless miniature robots are promising for minimally invasive biomedical applications. Effective tracking and navigation are essential for their safe deployment, but challenges persist in medical imaging and robot control, especially in localizing the robot in complex imaging scenes. Deep learning, though powerful for object identification, requires large supervised datasets, limiting its clinical applications due to the difficulty and cost of acquiring realistic data. Furthermore, miniature robotsfrequently exit the field of view of imaging systems, hindering continuous observation. Here, we present a framework for real-time magnetic navigation of wireless miniature robots using ultrasound imaging, leveraging synthetic data generation for deep learning-based detection. First, artificially generated synthetic data is combined with real data from synthetic materials to train a neural network capable of detecting versatile robots in real tissues. Then, a robotic system is developed to automatically track the robot with an ultrasound probe during magnetic actuation in tortuous lumens. With 85% less human-labeled data within synthetic materials, our approach effectively detects versatile robots in ex-vivo tissues, reducing data scarcity, imbalance, and manual labeling burdens. Demonstrations of automatic robot navigation through tortuous lumens in complex ultrasound scenes validate its effectiveness, enhancing the safe applicability of miniature medical robots in complex environments.
@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://wchunxiang.github.io/"
+url_pdf: ""
 url_code: ""
 url_dataset: ''
 url_poster: ''
@@ -69,7 +69,7 @@ slides: ""
 
 ---
 
-## 1. **Synthetic Data-Generated Deep Learning for Robot Detection**
+### 1. **Synthetic Data-Generated Deep Learning for Robot Detection**
 - **Challenge Addressed**: Shortage of medical imaging data and high manual labeling costs.
 - **Technique**:
   - A combination of synthetic data and real data from synthetic materials is used to train a neural network (YOLOv5s CNN model) to detect robots in noisy ultrasound images.
@@ -81,7 +81,7 @@ slides: ""
 
 ---
 
-## 2. **Ultrasound Imaging-Guided Robotic Navigation System**
+### 2. **Ultrasound Imaging-Guided Robotic Navigation System**
 
 ![2](2.JPG)
 
@@ -97,7 +97,7 @@ slides: ""
 
 ---
 
-## 3. **Key Innovations and Validation**
+### 3. **Key Innovations and Validation**
 - **Hybrid Data Training**: Demonstrates that synthetic data improves model performance on ex-vivo tissues (e.g., chicken breast, porcine heart arteries), outperforming pure real-data training in low-contrast and occluded scenarios.
 - **Multi-Robot Generalization**: Successfully detects robots with varying sizes (0.5–1.5 mm) and unseen objects (microcatheters) using the same framework.
 - **Experimental Validation**:
@@ -106,7 +106,7 @@ slides: ""
 ![7](7.JPG)
 ---
 
-## 4. **Clinical Relevance and Future Work**
+### 4. **Clinical Relevance and Future Work**
 - **Safety Features**: Robot design includes shape adaptation for lumen diameter changes and self-anchoring to resist blood flow.
 - **Challenges Addressed**: Overcomes limitations of Doppler-based tracking (requires robot motion) and filter-based methods (struggle in complex environments).
 - **Future Directions**:
@@ -116,7 +116,7 @@ slides: ""
 
 ---
 
-## 5. **Hardware and Software Setup**
+### 5. **Hardware and Software Setup**
 - **Hardware**:
   - **Ultrasound**: Vevo 3100/MX550 probe on a 7-DOF Franka Emika robotic arm.
   - **Magnetic Actuation**: 5-DOF motion stage with a 20 mm cubic magnet.
