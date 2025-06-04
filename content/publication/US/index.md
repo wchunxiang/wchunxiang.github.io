@@ -123,4 +123,4 @@ slides: ""
   - YOLOv5s for object detection, trained with synthetic data via custom Python generators.
 
 This work presents a robust framework for minimally invasive robotics, combining synthetic data-driven AI with autonomous navigation to enable safe and efficient deployment of miniature robots in complex biological environments.
- > This work is under evaluation.
+ > This work is in press.
