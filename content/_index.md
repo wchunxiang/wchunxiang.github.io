@@ -51,7 +51,7 @@ sections:
        <div class="expertise-block">
         
         ### Miniature soft robotics
-        > Solidworks, Nanoscribe, Formlab, Ultimaker, VSM, Matlab...
+        > Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...
         1. Robot design
         1. Fabrication
         1. Mechanical model
