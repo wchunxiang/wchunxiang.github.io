@@ -63,7 +63,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-{{< video src="DanioSense.mp4" controls="yes" >}}
+{{< bilibili id="BV1WV4y1r7DF" >}}
 
 ## 1. **Challenges Addressed**
 * **Occlusion Handling**: Addresses frequent intersections and identity switches among zebrafish larvae due to similar appearance and transparent bodies.
