@@ -71,7 +71,7 @@ slides: ""
 * **Multimodal Locomotion:** A customized **Halbach array** generates external magnetic fields, enabling versatile movements like walking, climbing, crawling, and swimming for navigation in complex tissues.
 * **Magnetic Control:** **Static magnetic fields** induce buckling for adhesion and pH sensing, while **rotating magnetic fields** (0.1–15 Hz) enable dynamic deformation for viscoelasticity sensing.
 
-![Mechanism of sensing the physiological properties of soft tissues in situ by a wireless miniature soft robot.](images/1.jpg)
+![Mechanism of sensing the physiological properties of soft tissues in situ by a wireless miniature soft robot.](1.jpg)
 
 ---
 ### 2. Sensing Mechanisms for Tissue Properties
