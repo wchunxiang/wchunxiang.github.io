@@ -63,7 +63,6 @@ projects: []
 #   Otherwise, set `slides: ""`. {{</* video src="my_video.mp4" controls="yes" */>}}
 slides: ""
 
-{{</* video src="DanioSense.mp4" controls="yes" */>}}
 ---
 
 ## 1. **Challenges Addressed**
@@ -120,3 +119,17 @@ slides: ""
 This article presents a robust, automated system that addresses long-standing challenges in larval zebrafish tracking, enabling high-throughput behavioral analysis with broad implications for biomedical and ecological research.
 
 > For more details, refer to "C. Wang, et.al., "DanioSense: Automated High-Throughput Quantification of Zebrafish Larvae Group Movement," in IEEE Transactions on Automation Science and Engineering, vol. 19, no. 2, pp. 1058-1069, April 2022, doi: 10.1109/TASE.2021.3050408."
+
+## Video
+
+Teach your course by sharing videos with your students. Choose from one of the following approaches:
+
+{{< youtube D2vj0WcvH5c >}}
+
+**Youtube**:
+
+    {{</* youtube w7Ft2ymGmfc */>}}
+
+**Bilibili**:
+
+    {{</* bilibili id="BV1WV4y1r7DF" */>}}
