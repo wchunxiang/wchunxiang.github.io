@@ -5,7 +5,7 @@ authors:
 author_notes:
 - "First author"
 date: "2025-10-01"
-doi: ""
+doi: "doi: 10.1109/TASE.2021.3050408"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-10-01"
@@ -22,14 +22,14 @@ publication_short: ""
 abstract: Wireless miniature robots are promising for minimally invasive biomedical applications. Effective tracking and navigation are essential for their safe deployment, but challenges persist in medical imaging and robot control, especially in localizing the robot in complex imaging scenes. Deep learning, though powerful for object identification, requires large supervised datasets, limiting its clinical applications due to the difficulty and cost of acquiring realistic data. Furthermore, miniature robotsfrequently exit the field of view of imaging systems, hindering continuous observation. Here, we present a framework for real-time magnetic navigation of wireless miniature robots using ultrasound imaging, leveraging synthetic data generation for deep learning-based detection. First, artificially generated synthetic data is combined with real data from synthetic materials to train a neural network capable of detecting versatile robots in real tissues. Then, a robotic system is developed to automatically track the robot with an ultrasound probe during magnetic actuation in tortuous lumens. With 85% less human-labeled data within synthetic materials, our approach effectively detects versatile robots in ex-vivo tissues, reducing data scarcity, imbalance, and manual labeling burdens. Demonstrations of automatic robot navigation through tortuous lumens in complex ultrasound scenes validate its effectiveness, enhancing the safe applicability of miniature medical robots in complex environments.
 
 # Summary. An optional shortened abstract.
-summary: Synthetic Data-Assisted Miniature Medical Robot Navigation via Ultrasound Imaging
+summary: 'Synthetic Data-Assisted Miniature Medical Robot Navigation via Ultrasound Imaging'
 
 tags:
 - Ultarsound imaging
 - Magnetic control
 - Robotic arm
 - Path planning
-featured: true
+featured: false
 
 # links:
 # - name: ""
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Framework of ultrasound imaging-guided autonomous navigation of wireless millirobots '
+  caption: 'Framework of ultrasound imaging-guided autonomous navigation of wireless millirobots'
   focal_point: ""
   preview_only: false
 
@@ -65,7 +65,7 @@ projects: []
 slides: ""
 ---
 
-# Techniques and Expertise Summary of "Synthetic Data-Assisted Miniature Medical Robot Navigation via Ultrasound Imaging"
+## Techniques and Expertise Summary
 
 ---
 
@@ -76,7 +76,9 @@ slides: ""
   - Synthetic data generation includes simulating background noise, lumen interference, robot shadows, and pepper noise to enhance model generalization.
   - Utilizes domain randomization to vary imaging parameters (e.g., lighting, pose) and reduce overfitting.
 - **Advantages**: Reduces human-labeled data usage by 85% (e.g., 100 real + 800 synthetic images vs. 600 real images) while maintaining detection accuracy.
+
 ![4](4.JPG)
+
 ---
 
 ## 2. **Ultrasound Imaging-Guided Robotic Navigation System**
@@ -123,4 +125,5 @@ slides: ""
   - YOLOv5s for object detection, trained with synthetic data via custom Python generators.
 
 This work presents a robust framework for minimally invasive robotics, combining synthetic data-driven AI with autonomous navigation to enable safe and efficient deployment of miniature robots in complex biological environments.
- > This work is in press.
+
+> This work is in press.
