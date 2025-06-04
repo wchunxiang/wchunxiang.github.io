@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chunxiang Wang (王春翔)
+title: Chunxiang Wang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Chunxiang Wang is a Ph.D. student in robotics at ETH Zürich and MPI-IS (about to graduate on Oct. 2025), where he specializes in miniature medical robotic systems. He earned his B.Eng. and M.Sc. degrees from the Harbin Institute of Technology (HIT) supervised by Prof. Huijun Gao, graduating with a distinguished GPA of 93.75/100. Under the supervision of Prof. Metin Sitti, his research focuses on soft millirobots with novel functionalities, integrating image processing and closed-loop robotic control. His work has been published in prestigious venues such as Science Advances and the IEEE Transactions series. Chunxiang has received numerous accolades, including the Max Planck Fellowship, several top-tier scholarships, and awards for Best Graduation Thesis. He also serves as a peer reviewer for leading journals and international conferences in the field.
+Chunxiang Wang is a Ph.D. student in robotics at ETH Zürich and MPI-IS (about to graduate in Oct. 2025), where he works on miniature medical robotic systems. He earned his B.Eng. and M.Sc. degrees from the Harbin Institute of Technology (HIT) supervised by Prof. Huijun Gao, graduating with a distinguished GPA of 93.75/100. Under the supervision of Prof. Metin Sitti, his research focuses on soft millirobots with novel functionalities, integrating computer vision and closed-loop robotic control. His work has been published in prestigious venues, such as Science Advances and a series of IEEE Transactions. Chunxiang has received numerous accolades, including the Max Planck Fellowship, several top-tier scholarships, and awards for Best Graduation Thesis. He also serves as a peer reviewer for leading journals and international conferences in the field of robotics.

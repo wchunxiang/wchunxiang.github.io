@@ -1,13 +1,11 @@
 ---
-title: "An example journal article"
+title: "In situ sensing physiological properties of biological tissues using wireless miniature soft robots"
 authors:
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "First author"
+date: "2023-06-07"
+doi: "DOI: 10.1126/sciadv.adg3988"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,31 +19,31 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Implanted electronic sensors, compared with conventional medical imaging, allow monitoring of advanced physiological properties of soft biological tissues continuously, such as adhesion, pH, viscoelasticity, and biomarkers for disease diagnosis. However, they are typically invasive, requiring being deployed by surgery, and frequently cause inflammation. Here we propose a minimally invasive method of using wireless miniature soft robots to in situ sense the physiological properties of tissues. By controlling robot-tissue interaction using external magnetic fields, visualized by medical imaging, we can recover tissue properties precisely from the robot shape and magnetic fields. We demonstrate that the robot can traverse tissues with multimodal locomotion and sense the adhesion, pH, and viscoelasticity on porcine and mice gastrointestinal tissues ex vivo, tracked by x-ray or ultrasound imaging. With the unprecedented capability of sensing tissue physiological properties with minimal invasion and high resolution deep inside our body, this technology can potentially enable critical applications in both basic research and clinical practice.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Wireless miniature soft robots offer a minimally invasive way to continuously monitor physiological properties of soft tissues, like pH and viscoelasticity, by precisely recovering tissue properties from their shape and external magnetic fields.
 
 tags:
-- Source Themes
+- Mechanics - Image processing - Magnetic control
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.science.org/doi/full/10.1126/sciadv.adg3988'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Concept of in situ sensing the physiological properties of soft tissues by a wireless miniature soft robot.'
   focal_point: ""
   preview_only: false
 
@@ -61,7 +59,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
