@@ -1,6 +1,6 @@
 ---
 title: Robotic deployment of miniature medical devices via X-ray imaging
-date: 2023-12-01
+date: 2024-02-01
 external_link: https://wchunxiang.github.io/publication/carm/
 tags:
 - X-ray imaging
