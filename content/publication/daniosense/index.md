@@ -63,11 +63,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-<video width="640" height="360" controls>
-  <source src="DanioSense.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+{{< video src="DanioSense.mp4" controls="yes" >}}
 
 ## 1. **Challenges Addressed**
 * **Occlusion Handling**: Addresses frequent intersections and identity switches among zebrafish larvae due to similar appearance and transparent bodies.
