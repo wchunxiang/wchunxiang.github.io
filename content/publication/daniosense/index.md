@@ -28,7 +28,7 @@ tags:
 - Multi-object trakcing
 - Image processing 
 - Adaptive Kalman filter
-featured: true
+featured: false
 
 # links:
 # - name: ""
