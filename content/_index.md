@@ -93,7 +93,7 @@ sections:
     design:
       show_skill_percentage: false
   
-    - block: markdown
+  - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
