@@ -118,21 +118,21 @@ skills:
       - name: Robot design
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: cursor-arrow-ripple
       - name: Robot fabrication
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: beaker
       - name: Mechanical model
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: wrench-screwdriver
       - name: Magnetic actuation
         description: ''
         percent: 40
-        icon: circle-stack 
+        icon: cog-8-tooth 
       - name: ''
-        description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...'
+        description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Parylene C, Matlab...'
         percent: 40
         icon: ''
       
@@ -143,24 +143,35 @@ skills:
       - name: Image processing
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: devicon-opencv-plain
+          
       - name: Object tracking
         description: 'Detection, Segmentation, Tracking'
         percent: 100
-        icon: cat
+        icon: devicon-pytorch-original
+          
       - name: Medical imaging
         description: 'X-ray, Ultrasound, Photo-acoustic.'
         percent: 60
-        icon: person-simple-walk
+        icon: devicon-spack-plain
+          
       - name: Generative models
         description: 'Diffusion model, VAE.'
         percent: 80
-        icon: camera
+        icon: devicon-openapi-plain
+          
       - name: ''
         description: 'Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
         percent: 80
         icon: ''
-      
+skillsother:
+  - name: Soft robotics
+    items:
+      - name: Robot design
+        description: ''
+        percent: 80
+        icon: cursor-arrow-ripple
+  
   - name: Robotic control
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -168,29 +179,23 @@ skills:
       - name: Robotic systems
         description: 'Closed-loop control integrating medical imaging with robotic arm manipulation'
         percent: 60
-        icon: person-simple-walk
+        icon: devicon-ros-original-wordmark
       - name: Optimal filtering
         description: 'e.g. Adaptive Kalman Filter, Particle Filter.'
         percent: 100
-        icon: cat
+        icon: finger-print
       - name: Path planning
         description: ''
         percent: 80
-        icon: camera
+        icon: arrow-trending-up
       - name: Robotic micromanipulation
         description: ''
         percent: 80
-        icon: camera
+        icon: wrench
       - name: ''
         description: 'ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
         percent: 80
         icon: ''
-
-  - name: Multimedia
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Robotic systems
 
 languages:
   - name: English

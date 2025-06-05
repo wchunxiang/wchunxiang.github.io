@@ -43,55 +43,49 @@ sections:
   #   design:
   #     columns: '1'
 
-  - block: markdown
-    content:
-      title: '📚 Expertise'
-      subtitle: ''
-      text: |-
-       <div class="expertise-block">
+  # - block: markdown
+  #   content:
+  #     title: '📚 Expertise'
+  #     subtitle: ''
+  #     text: |-
+  #      <div class="expertise-block">
         
-        ### Miniature soft robotics
-        > Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...
-        1. Robot design
-        1. Fabrication
-        1. Mechanical model
-        1. Magnetic actuation
+  #       ### Miniature soft robotics
+  #       > Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...
+  #       1. Robot design
+  #       1. Fabrication
+  #       1. Mechanical model
+  #       1. Magnetic actuation
         
-        ### Computer vision
-        > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
-        1. Image processing
-        1. Object detection, segmentation, tracking
-        1. Generative models
-        1. Medical imaging: X-ray, Ultrsound, Photo-acoustic.
-        
-
-        ### Robotic control: 
-        > ROS, Franka-emika Arm, C++...
-        1. Closed-loop robotic control systems:
-          - Dual-robotic arm integrating ultrasound imaging and magnetic actuation
-          - C-arm fluoroscopy and magnetic actuation
-        2. Optimal filtering (e.g. Adaptive Kalman Filter, Particle Filter)
-        3. Path planning
-        4. Robotic arm control
-        5. Robotic micromanipulation
+  #       ### Computer vision
+  #       > Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
+  #       1. Image processing
+  #       1. Object detection, segmentation, tracking
+  #       1. Generative models
+  #       1. Medical imaging: X-ray, Ultrsound, Photo-acoustic.
         
 
-        ### Multimedia Technology
-        > Ps, Ai, Pr, C4D, Keyshot
+  #       ### Robotic control: 
+  #       > ROS, Franka-emika Arm, C++...
+  #       1. Closed-loop robotic control systems:
+  #         - Dual-robotic arm integrating ultrasound imaging and magnetic actuation
+  #         - C-arm fluoroscopy and magnetic actuation
+  #       2. Optimal filtering (e.g. Adaptive Kalman Filter, Particle Filter)
+  #       3. Path planning
+  #       4. Robotic arm control
+  #       5. Robotic micromanipulation
+        
 
-    design:
-      columns: 1
-      view: article-grid
+  #       ### Multimedia Technology
+  #       > Ps, Ai, Pr, C4D, Keyshot
+
+  #   design:
+  #     columns: 1
+  #     view: article-grid
       # For the Showcase view, do you want to flip alternate rows?
       # flip_alt_rows: true 
       # spacing:
       #   padding: [0, 0, 0, 0]
-  - block: resume-skills
-    content:
-      title: 📚Skills👨‍💻
-      username: admin
-    design:
-      show_skill_percentage: false
 
   - block: collection
     id: papers
@@ -103,7 +97,21 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
+
+  - block: resume-skills
+    content:
+      title: 📚Skills👨‍💻
+      username: admin
+    design:
+      show_skill_percentage: false
+  
+  - block: resume-skillsother
+    content:
+      title: ''
+      username: admin
+    design:
+      show_skill_percentage: false
   # - block: collection
   #   content:
   #     title: Recent Publications
