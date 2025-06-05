@@ -120,7 +120,7 @@ skills:
         percent: 80
         icon: cursor-arrow-ripple
       - name: Robot fabrication
-        description: '3D printing, molding, cutting, micromanipulation.'
+        description: '3D printing, molding, micromanipulation...'
         percent: 100
         icon: beaker
       - name: Mechanical model

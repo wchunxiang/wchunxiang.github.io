@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - project
+      paginate: false
     design:
       view: article-grid
       fill_image: false
