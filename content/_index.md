@@ -88,7 +88,7 @@ sections:
       #   padding: [0, 0, 0, 0]
   - block: resume-skills
     content:
-      title: 📚Skills
+      title: 📚Skills👨‍💻
       username: admin
     design:
       show_skill_percentage: false

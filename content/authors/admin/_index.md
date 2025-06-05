@@ -131,7 +131,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack 
-      - name:  
+      - name: ''
         description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...'
         percent: 40
         icon: ''
@@ -149,15 +149,15 @@ skills:
         percent: 100
         icon: cat
       - name: Medical imaging
-        description: 'X-ray, Ultrsound, Photo-acoustic.'
+        description: 'X-ray, Ultrasound, Photo-acoustic.'
         percent: 60
         icon: person-simple-walk
       - name: Generative models
         description: 'Diffusion model, VAE.'
         percent: 80
         icon: camera
-      - name: Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
-        description: ''
+      - name: ''
+        description: 'Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
         percent: 80
         icon: ''
       
@@ -166,7 +166,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Robotic systems
-        description: 'Closed-loop control: Dual-robotic arm integrating ultrasound imaging and magnetic actuation; C-arm fluoroscopy and magnetic actuation.'
+        description: 'Closed-loop control integrating medical imaging with robotic arm manipulation'
         percent: 60
         icon: person-simple-walk
       - name: Optimal filtering
@@ -177,18 +177,20 @@ skills:
         description: ''
         percent: 80
         icon: camera
-      - name: Robotic arm control
-        description: ''
-        percent: 80
-        icon: camera
       - name: Robotic micromanipulation
         description: ''
         percent: 80
         icon: camera
-      - name: ROS, Franka-emika Arm, C++...
-        description: ''
+      - name: ''
+        description: 'ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
         percent: 80
         icon: ''
+
+  - name: Multimedia
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Robotic systems
 
 languages:
   - name: English
