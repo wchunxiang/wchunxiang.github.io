@@ -24,13 +24,23 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
+  
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+      ### Multimedia Technology
+      > Ps, Ai, Pr, C4D, Keyshot
+  
   - block: resume-languages
     content:
       title: Languages
       username: admin
+  
   - block: resume-awards
     content:
-      title: Awards
+      title: Representative awards
       username: admin
-
+  
 ---

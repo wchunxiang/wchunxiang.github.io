@@ -79,12 +79,13 @@ education:
   - area: BSc Automation
     institution: Harbin Institute of Technology
     date_start: 2019-07-01
-    date_end: 2016-09-01
+    date_end: 2015-09-01
     summary: |
       * GPA: 93.9/100
       * Graduated summa cum laude
       * Best Graduation Thesis (Top 2% within HIT).
       * Thesis: Multi-object tracking of zebrafish larvae. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en). 
+
 
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -146,7 +147,7 @@ skills:
         icon: devicon/opencv
           
       - name: Object tracking
-        description: 'Detection, Segmentation, Tracking'
+        description: 'Detection, Segmentation, Tracking.'
         percent: 100
         icon: devicon/pytorch
           
@@ -170,7 +171,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Robotic systems
-        description: 'Closed-loop control integrating medical imaging with robotic arm manipulation'
+        description: 'Closed-loop control integrating medical imaging with robotic arm manipulation.'
         percent: 60
         icon: devicon/ros
         
@@ -192,12 +193,12 @@ skills:
         icon: ''
 
 languages:
-  - name: English
-    percent: 90
   - name: Chinese
     percent: 100
-  # - name: Portuguese
-  #   percent: 25
+  - name: English
+    percent: 90
+  - name: German
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
