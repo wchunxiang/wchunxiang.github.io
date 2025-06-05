@@ -68,8 +68,8 @@ education:
     #   url: 'https://example.com'
   - area: MEng Automation
     institution: Harbin Institute of Technology
-    date_start: 2021-07-01
-    date_end: 2019-09-01
+    ddate_start: 2019-09-01
+    date_end: 2021-07-01
     summary: |
       * IELTS: 7.5/9.0
       * Graduated summa cum laude
@@ -78,8 +78,8 @@ education:
 
   - area: BSc Automation
     institution: Harbin Institute of Technology
-    date_start: 2019-07-01
-    date_end: 2015-09-01
+    date_start: 2015-09-01
+    date_end: 2019-07-01
     summary: |
       * GPA: 93.9/100
       * Graduated summa cum laude
