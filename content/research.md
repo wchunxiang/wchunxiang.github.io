@@ -49,4 +49,21 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+awards:
+  - title: Max Planck Fellowship
+    url: ''
+    date: '2021-09-01'
+    awarder: Max Planck Society
+    icon: 
+    summary: |
+      Ph.D. scholarship.
+  - title: Best Master Graduation Thesis
+    url: ''
+    date: '2021-07-01'
+    awarder: Postgraduate School of Harbin Institute of Technology (HIT)
+    icon: 
+    summary: |
+      Top 1% within HIT
+
 ---
