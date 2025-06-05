@@ -88,7 +88,7 @@ sections:
       #   padding: [0, 0, 0, 0]
   - block: resume-skills
     content:
-      title: 📚Skills👨‍💻
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
@@ -124,8 +124,9 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-       <div class="expertise-block">
-        > To explore further details, please navigate to the other tabs.😃
+       ---
+        > To explore further details, please navigate to other tabs (Upper right).😃
+       ---
     design:
       columns: '1'
 

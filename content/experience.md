@@ -30,6 +30,7 @@ sections:
       subtitle: ''
       text: |-
        <div class="expertise-block">
+       
        ### Multimedia Technology
         > Ps, Ai, Pr, C4D, Keyshot
     design:
