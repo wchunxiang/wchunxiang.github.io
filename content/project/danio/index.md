@@ -1,6 +1,6 @@
 ---
 title: Robust Multi-Object Tracking in Crowded and Occluded Scenes
-date: 2019-09-01
+date: 2020-09-01
 external_link: https://wchunxiang.github.io/publication/daniosense/
 tags:
 - Multi-object trakcing

@@ -105,13 +105,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  
-  - block: resume-skillsother
-    content:
-      title: ''
-      username: admin
-    design:
-      show_skill_percentage: false
+
   # - block: collection
   #   content:
   #     title: Recent Publications

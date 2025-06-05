@@ -1,6 +1,6 @@
 ---
 title: Micromanipulation system for zebrafish larvae
-date: 2019-08-01
+date: 2020-08-01
 external_link: https://luoyeguigenno1.github.io/project/
 tags:
 - Micromanipulation
