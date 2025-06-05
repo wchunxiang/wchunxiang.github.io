@@ -116,11 +116,11 @@ skills:
   - name: Soft robotics
     items:
       - name: Robot design
-        description: 'Structure, materials'
+        description: 'Structure, materials.'
         percent: 80
         icon: cursor-arrow-ripple
       - name: Robot fabrication
-        description: '3D print, molding, cutting, micromanipulation.'
+        description: '3D printing, molding, cutting, micromanipulation.'
         percent: 100
         icon: beaker
       - name: Mechanical model
@@ -132,7 +132,7 @@ skills:
         percent: 40
         icon: cog-8-tooth 
       - name: ''
-        description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Parylene C, Matlab...'
+        description: '> Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Parylene C, Matlab...'
         percent: 40
         icon: ''
       
@@ -143,25 +143,25 @@ skills:
       - name: Image processing
         description: ''
         percent: 60
-        icon: opencv
+        icon: devicon/opencv
           
       - name: Object tracking
         description: 'Detection, Segmentation, Tracking'
         percent: 100
-        icon: pytorch
+        icon: devicon/pytorch
           
       - name: Medical imaging
         description: 'X-ray, Ultrasound, Photo-acoustic.'
         percent: 60
-        icon: spack
+        icon: devicon/spack
           
       - name: Generative models
         description: 'Diffusion model, VAE.'
         percent: 80
-        icon: openapi
+        icon: devicon/openapi
           
       - name: ''
-        description: 'Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
+        description: '> Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
         percent: 80
         icon: ''
   
@@ -186,7 +186,7 @@ skills:
         percent: 80
         icon: wrench
       - name: ''
-        description: 'ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
+        description: '> ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
         percent: 80
         icon: ''
 
