@@ -16,5 +16,6 @@ I was drawn to the kalimba for its simplicity and portability, but what keeps me
 
 It's not just a hobby—it's a small, joyful ritual that brings harmony into my life.
 
+Videos of my kalimba playing are occasionally uploaded to Bilibili.
 {{< bilibili id="BV1wX4y1m7gU" >}}
 
