@@ -124,7 +124,7 @@ skills:
         percent: 100
         icon: beaker
       - name: Mechanical model
-        description: 'Kinematics, dynamics, actuation modelling'
+        description: 'Kinematics, dynamics, actuation.'
         percent: 40
         icon: wrench-screwdriver
       - name: Magnetic actuation
@@ -204,33 +204,94 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Max Planck Fellowship
+    url: ''
+    date: '2021-09-01'
+    awarder: Max Planck Society
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Ph.D. scholarship.
+  - title: Best Master Graduation Thesis
+    url: ''
+    date: '2021-07-01'
+    awarder: Postgraduate School of Harbin Institute of Technology (HIT)
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Top 1% within HIT
+  - title: 'Outstanding Undergraduate Award'
+    url: ''
+    certificate_url: ''
+    date: '2021-07-01'
+    awarder: Postgraduate School of HIT 
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Top 10% within HIT
+  - title: 'First-class Postgraduate Scholarship'
+    url: ''
+    certificate_url: ''
+    date: '2020-09-01'
+    awarder: Postgraduate School of HIT 
+    icon: 
+    summary: |
+      Top 10% within HIT
+  - title: 'First-class Special Scholarship'
+    url: ''
+    certificate_url: ''
+    date: '2019-09-01'
+    awarder: Postgraduate School of HIT 
+    icon: 
+    summary: |
+      Top 2% within HIT
+  - title: 'Best Undergraduate Graduation Thesis'
+    url: ''
+    certificate_url: ''
+    date: '2019-06-01'
+    awarder: Undergraduate School of HIT 
+    icon: 
+    summary: |
+      Top 2% within HIT
+  - title: 'Outstanding Undergraduate Award'
+    url: ''
+    certificate_url: ''
+    date: '2019-06-01'
+    awarder: Undergraduate School of HIT 
+    icon: 
+    summary: |
+      Top 10% within HIT
+  - title: 'Second prize of National University Student Social Practice and Science Contest on Energy saving and Emission Reduction'
+    url: ''
+    certificate_url: ''
+    date: '2018-08-01'
+    awarder: Ministry of Education of the People’s Republic of China
+    icon: 
+    summary: |
+      
+  - title: 'National Special Scholarship'
+    url: ''
+    certificate_url: ''
+    date: '2017-05-01'
+    awarder: Ministry of Education of the People’s Republic of China 
+    icon: 
+    summary: |
+      Top 10% within HIT
+  - title: 'Best Learner Award'
+    url: ''
+    certificate_url: ''
+    date: '2016-07-01'
+    awarder: Undergraduate School of HIT 
+    icon: 
+    summary: |
+      The award is bestowed upon the student who achieves the highest GPA within their corresponding school, placing them among the top 1% of all students at HIT.
+  - title: 'First Class of People’s Scholarship'
+    url: ''
+    certificate_url: ''
+    date: '2016-09-01'
+    awarder: Undergraduate School of HIT
+    icon: 
+    summary: |
+      Top 3% within HIT.
 ---
 
 ## About Me
 
-Chunxiang Wang is a Ph.D. student in robotics at ETH Zürich and MPI-IS (about to graduate in Oct. 2025), where he works on miniature medical robotic systems. He earned his B.Eng. and M.Sc. degrees from the Harbin Institute of Technology (HIT) supervised by Prof. Huijun Gao, graduating with a distinguished GPA of 93.75/100. Under the supervision of Prof. Metin Sitti, his research focuses on soft millirobots with novel functionalities, integrating computer vision and closed-loop robotic control. His work has been published in prestigious venues, such as Science Advances and a series of IEEE Transactions. Chunxiang has received numerous accolades, including the Max Planck Fellowship, several top-tier scholarships, and awards for Best Graduation Thesis. He also serves as a peer reviewer for leading journals and international conferences in the field of robotics.
+Chunxiang Wang is a Ph.D. student in robotics at ETH Zürich and MPI-IS (about to graduate in Oct. 2025), where he works on miniature medical robotic systems. He earned his B.Eng. and M.Sc. degrees from the Harbin Institute of Technology (HIT) supervised by Prof. Huijun Gao, graduating with a distinguished GPA of 93.75/100 and best graduation thesis (top 1% within HIT). Under the supervision of Prof. Metin Sitti, his current research focuses on soft millirobots with novel functionalities, integrating computer vision and closed-loop robotic control. His work has been published in prestigious venues, such as Science Advances and a series of IEEE Transactions. Chunxiang has received numerous accolades, such as the Max Planck Fellowship and many top-tier scholarships. He also serves as a peer reviewer for leading journals and international conferences in the field of robotics.
