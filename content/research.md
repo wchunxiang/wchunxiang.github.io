@@ -56,11 +56,16 @@ sections:
       subtitle: ''
       text: |-
        <div class="expertise-block">
-       - 2025.02.05 Scientists at the Max Planck Institute for Intelligent Systems have developed a method to deploy hashtag#magnetic hashtag#miniature hashtag#robots through hashtag#3D networks mimicking blood vessels. [link](https://www.linkedin.com/posts/max-planck-queensland-centre-mpqc-03028026a_magnetic-miniature-robots-ugcPost-7287682651451273216-MOvE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCrHQBeRa1Fh25c1_EHGSjdynZ1k8NozI)
-       - 2025.01.01 Scientists develop a multi-magnetic microrobot control system to independently control multiple robots in complex 3D environments. [link](https://m.weibo.cn/status/5118054264999198?wm=3333_2001&from=10EC293010&sourcetype=weixin&s_trans=2011592975765_5118054264999198&s_channel=5&jumpfrom=weibocom), [link](https://mp.weixin.qq.com/s/W00De1dAbB1KHOw4DdQYOQ)
-       - 2024.11.15 3D robot navigation enables multi-site medical operations. [link](https://healthcare-in-europe.com/en/news/3d-robot-navigation-multi-site-medical-procedures.html?utm_source=dlvr.it&utm_medium=twitter)
-       - 2024.11.07 3D robot navigation could enable multi-site medical procedures. [link](https://is.mpg.de/news/3d-robot-navigation-could-enable-multi-site-medical-procedures)
-       - 2023.07.27 The Max Planck team develops a wireless miniature soft robot capable of measuring the physiological properties of biological tissues. [link](https://m.weibo.cn/status/4927462331653267?jumpfrom=weibocom&wm=3333_2001&from=10D7293010&sourcetype=weixin&s_trans=2011592975765_4927462331653267&s_channel=4), [link](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649713281&idx=6&sn=ec1aa0d2f40c06119d726f41f345863d&chksm=87687e98b01ff78e6a3ed72b39928546089b995e368df4c3934f81886be51fb94b0911de37e0&scene=126&sessionid=0)
+       
+       * 2025.02.05 
+       <a href="https://www.linkedin.com/posts/max-planck-queensland-centre-mpqc-03028026a_magnetic-miniature-robots-ugcPost-7287682651451273216-MOvE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCrHQBeRa1Fh25c1_EHGSjdynZ1k8NozI" target="_blank" rel="noopener noreferrer">Scientists at the Max Planck Institute for Intelligent Systems have developed a method to deploy hashtag#magnetic hashtag miniature hashtag#robots through hashtag 3D networks mimicking blood vessels.</a>
+
+       * 2025.01.01 
+       <a href="https://m.weibo.cn/status/5118054264999198?wm=3333_2001&from=10EC293010&sourcetype=weixin&s_trans=2011592975765_5118054264999198&s_channel=5&jumpfrom=weibocom" target="_blank" rel="noopener noreferrer">Scientists develop a multi-magnetic microrobot control system to independently control multiple robots in complex 3D environments.</a>
+       * 2024.11.15 
+       <a href="https://healthcare-in-europe.com/en/news/3d-robot-navigation-multi-site-medical-procedures.html?utm_source=dlvr.it&utm_medium=twitter" target="_blank" rel="noopener noreferrer">3D robot navigation could enable multi-site medical procedures.</a>
+       * 2023.07.27 
+       <a href="https://m.weibo.cn/status/4927462331653267?jumpfrom=weibocom&wm=3333_2001&from=10D7293010&sourcetype=weixin&s_trans=2011592975765_4927462331653267&s_channel=4" target="_blank" rel="noopener noreferrer">The Max Planck team develops a wireless miniature soft robot capable of measuring the physiological properties of biological tissues.</a>
 
     design:
       columns: '1'
