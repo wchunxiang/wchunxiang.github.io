@@ -68,13 +68,14 @@ education:
     #   url: 'https://example.com'
   - area: MEng Automation
     institution: Harbin Institute of Technology
-    ddate_start: 2019-09-01
+    date_start: 2019-09-01
     date_end: 2021-07-01
     summary: |
       * IELTS: 7.5/9.0
       * Graduated summa cum laude
       * Best Graduation Thesis  (Top 1% within HIT).
       * Thesis: Automated High-throughput Quantification of Zebrafish Larvae Group Movement. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en)  (IEEE Fellow). 
+
 
   - area: BSc Automation
     institution: Harbin Institute of Technology
@@ -109,7 +110,7 @@ education:
 #       Responsibilities include:
 #       - Migrated infrastructure to a new data center
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit njjbbbk
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
