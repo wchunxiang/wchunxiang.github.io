@@ -63,3 +63,4 @@ params:
   assets:
     css:
       - "css/custom.css"
+  favicon: "favicon.png"
