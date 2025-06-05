@@ -173,7 +173,7 @@ skillsother:
         percent: 80
         icon: cursor-arrow-ripple
   
-  - name: others
+  - name: others1
     items:
     - name: Robotic control
       color: '#eeac02'
