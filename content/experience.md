@@ -25,16 +25,6 @@ sections:
     design:
       show_skill_percentage: false
   
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-      ### Multimedia Technology
-      > Ps, Ai, Pr, C4D, Keyshot
-    design:
-      columns: 1
-      view: article-grid
   
   - block: resume-languages
     content:
