@@ -173,30 +173,32 @@ skillsother:
         percent: 80
         icon: cursor-arrow-ripple
   
-  - name: Robotic control
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: others
     items:
-      - name: Robotic systems
-        description: 'Closed-loop control integrating medical imaging with robotic arm manipulation'
-        percent: 60
-        icon: devicon-ros-original-wordmark
-      - name: Optimal filtering
-        description: 'e.g. Adaptive Kalman Filter, Particle Filter.'
-        percent: 100
-        icon: finger-print
-      - name: Path planning
-        description: ''
-        percent: 80
-        icon: arrow-trending-up
-      - name: Robotic micromanipulation
-        description: ''
-        percent: 80
-        icon: wrench
-      - name: ''
-        description: 'ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
-        percent: 80
-        icon: ''
+    - name: Robotic control
+      color: '#eeac02'
+      color_border: '#f0bf23'
+      items:
+        - name: Robotic systems
+          description: 'Closed-loop control integrating medical imaging with robotic arm manipulation'
+          percent: 60
+          icon: devicon-ros-original-wordmark
+        - name: Optimal filtering
+          description: 'e.g. Adaptive Kalman Filter, Particle Filter.'
+          percent: 100
+          icon: finger-print
+        - name: Path planning
+          description: ''
+          percent: 80
+          icon: arrow-trending-up
+        - name: Robotic micromanipulation
+          description: ''
+          percent: 80
+          icon: wrench
+        - name: ''
+          description: 'ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
+          percent: 80
+          icon: ''
 
 languages:
   - name: English
