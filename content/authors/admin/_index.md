@@ -113,20 +113,30 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Skills
+  - name: Soft robotics
     items:
-      - name: Fabrication
-        description: 'fabrication of '
+      - name:  
+        description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...'
+        percent: 40
+        icon: circle-stack
+      - name: Robot design
+        description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Robot fabrication
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Mechanical model
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Magnetic actuation
+        description: ''
+        percent: 40
+        icon: circle-stack 
+      
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
