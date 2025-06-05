@@ -116,19 +116,19 @@ skills:
   - name: Soft robotics
     items:
       - name: Robot design
-        description: ''
+        description: 'Structure, materials'
         percent: 80
         icon: cursor-arrow-ripple
       - name: Robot fabrication
-        description: ''
+        description: '3D print, molding, cutting, micromanipulation.'
         percent: 100
         icon: beaker
       - name: Mechanical model
-        description: ''
+        description: 'Kinematics, dynamics, actuation modelling'
         percent: 40
         icon: wrench-screwdriver
       - name: Magnetic actuation
-        description: ''
+        description: 'Permanent magnet, eletromagnet.'
         percent: 40
         icon: cog-8-tooth 
       - name: ''
@@ -143,22 +143,22 @@ skills:
       - name: Image processing
         description: ''
         percent: 60
-        icon: devicon-opencv-plain
+        icon: opencv
           
       - name: Object tracking
         description: 'Detection, Segmentation, Tracking'
         percent: 100
-        icon: devicon-pytorch-original
+        icon: pytorch
           
       - name: Medical imaging
         description: 'X-ray, Ultrasound, Photo-acoustic.'
         percent: 60
-        icon: devicon-spack-plain
+        icon: spack
           
       - name: Generative models
         description: 'Diffusion model, VAE.'
         percent: 80
-        icon: devicon-openapi-plain
+        icon: openapi
           
       - name: ''
         description: 'Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
@@ -172,7 +172,7 @@ skills:
       - name: Robotic systems
         description: 'Closed-loop control integrating medical imaging with robotic arm manipulation'
         percent: 60
-        icon: devicon-ros-original-wordmark
+        icon: ros
       - name: Optimal filtering
         description: 'e.g. Adaptive Kalman Filter, Particle Filter.'
         percent: 100

@@ -86,7 +86,13 @@ sections:
       # flip_alt_rows: true 
       # spacing:
       #   padding: [0, 0, 0, 0]
-
+  - block: resume-skills
+    content:
+      title: 📚Skills👨‍💻
+      username: admin
+    design:
+      show_skill_percentage: false
+      
   - block: collection
     id: papers
     content:
@@ -99,12 +105,7 @@ sections:
       view: article-grid
       columns: 3
 
-  - block: resume-skills
-    content:
-      title: 📚Skills👨‍💻
-      username: admin
-    design:
-      show_skill_percentage: false
+
 
   # - block: collection
   #   content:
