@@ -37,7 +37,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 
   - block: collection
     content:
