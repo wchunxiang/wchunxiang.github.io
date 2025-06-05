@@ -120,4 +120,4 @@ slides: ""
 
 This article presents a robust, automated system that addresses long-standing challenges in larval zebrafish tracking, enabling high-throughput behavioral analysis with broad implications for biomedical and ecological research.
 
-> For more details, refer to "C. Wang, et.al., "DanioSense: Automated High-Throughput Quantification of Zebrafish Larvae Group Movement," in IEEE Transactions on Automation Science and Engineering, vol. 19, no. 2, pp. 1058-1069, April 2022, doi: 10.1109/TASE.2021.3050408."
+> For more details, , refer to [this link](https://ieeexplore.ieee.org/abstract/document/9336279)"

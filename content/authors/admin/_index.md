@@ -37,8 +37,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/CXLYGG
-  - icon: brands/instagram
-    url: https://www.instagram.com/lygg_wcx/?next=%2F
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/lygg_wcx/?next=%2F
   # - icon: brands/github
   #   url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -71,15 +71,21 @@ education:
     date_start: 2021-07-01
     date_end: 2019-09-01
     summary: |
-      IELTS: 7.5/9.0
-      Thesis on Automated High-throughput Quantification of Zebrafish Larvae Group Movement. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en). 
+      * IELTS: 7.5/9.0
+      * Graduated summa cum laude
+      * Best Graduation Thesis  (Top 2% within HIT).
+      * Thesis: Automated High-throughput Quantification of Zebrafish Larvae Group Movement. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en). 
 
   - area: BSc Automation
     institution: Harbin Institute of Technology
     date_start: 2019-07-01
-    date_end: 2015-09-01
+    date_end: 2016-09-01
     summary: |
-      GPA: 93.9/100
+      * GPA: 93.9/100
+      * Graduated summa cum laude
+      * Best Graduation Thesis (Top 2% within HIT).
+      * Thesis: Multi-object tracking of zebrafish larvae. Supervised by [Prof. Huijun Gao](https://scholar.google.com/citations?user=2DdpHLEAAAAJ&hl=en). 
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -107,7 +113,7 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Miniature magnetic soft robots
+  - name: Skills
     items:
       - name: Fabrication
         description: 'fabrication of '
@@ -122,6 +128,22 @@ skills:
         percent: 40
         icon: circle-stack
   - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+  - name: others
     color: '#eeac02'
     color_border: '#f0bf23'
     items:

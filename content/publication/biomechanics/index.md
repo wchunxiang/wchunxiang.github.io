@@ -121,4 +121,4 @@ slides: ""
 * **Disease Modeling:** The robot differentiates healthy and diseased tissues (e.g., TNK1-expression mice with impaired intestinal barriers) by detecting pH and viscoelasticity changes.
 * **Minimally Invasive Design:** The robot's millimeter-scale size (6.5 mm $\times$ 2 mm $\times$ 15 mm) and untethered locomotion allow access to confined spaces with minimal invasion, avoiding surgical implantation.
 * **Biocompatibility:** Surface coatings (PDMS, parylene C) prevent toxic particle exposure; future cell viability tests are planned.
-> For more details, refer to "Wang, Chunxiang, et al. "In situ sensing physiological properties of biological tissues using wireless miniature soft robots." Science advances 9.23 (2023): eadg3988."
+> For more details, refer to [this link](https://www.science.org/doi/full/10.1126/sciadv.adg3988)"
