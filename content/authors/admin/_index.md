@@ -132,7 +132,7 @@ skills:
         percent: 40
         icon: cog-8-tooth 
       - name: ''
-        description: '> Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Parylene C, Matlab...'
+        description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Parylene C, Matlab...'
         percent: 40
         icon: ''
       
@@ -161,7 +161,7 @@ skills:
         icon: devicon/python
           
       - name: ''
-        description: '> Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
+        description: 'Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
         percent: 80
         icon: ''
   
@@ -187,7 +187,7 @@ skills:
         percent: 80
         icon: wrench
       - name: ''
-        description: '> ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
+        description: 'ROS, C++, Franka-emika arm, C-arm fluoroscopy, Ultrasound imaging...'
         percent: 80
         icon: ''
 
