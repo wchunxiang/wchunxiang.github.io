@@ -115,10 +115,6 @@ education:
 skills:
   - name: Soft robotics
     items:
-      - name:  
-        description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...'
-        percent: 40
-        icon: circle-stack
       - name: Robot design
         description: ''
         percent: 80
@@ -135,40 +131,64 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack 
+      - name:  
+        description: 'Solidworks, Nanoscribe, Formlab, Ultimaker, LPKF Laser, VSM, Matlab...'
+        percent: 40
+        icon: ''
       
-      
-  - name: Hobbies
+  - name: Computer vision
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Image processing
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Object tracking
+        description: 'Detection, Segmentation, Tracking'
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
+      - name: Medical imaging
+        description: 'X-ray, Ultrsound, Photo-acoustic.'
+        percent: 60
+        icon: person-simple-walk
+      - name: Generative models
+        description: 'Diffusion model, VAE.'
         percent: 80
         icon: camera
-  - name: others
+      - name: Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...
+        description: ''
+        percent: 80
+        icon: ''
+      
+  - name: Robotic control
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
+      - name: Robotic systems
+        description: 'Closed-loop control: Dual-robotic arm integrating ultrasound imaging and magnetic actuation; C-arm fluoroscopy and magnetic actuation.'
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Optimal filtering
+        description: 'e.g. Adaptive Kalman Filter, Particle Filter.'
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Path planning
         description: ''
         percent: 80
         icon: camera
+      - name: Robotic arm control
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Robotic micromanipulation
+        description: ''
+        percent: 80
+        icon: camera
+      - name: ROS, Franka-emika Arm, C++...
+        description: ''
+        percent: 80
+        icon: ''
 
 languages:
   - name: English
