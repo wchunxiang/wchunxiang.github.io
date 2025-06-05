@@ -118,6 +118,16 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+       <div class="expertise-block">
+        > To explore further details, please navigate to the other tabs.😃
+    design:
+      columns: '1'
 
 
 
