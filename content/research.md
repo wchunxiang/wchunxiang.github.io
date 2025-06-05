@@ -62,8 +62,10 @@ sections:
 
        * 2025.01.01 
        <a href="https://m.weibo.cn/status/5118054264999198?wm=3333_2001&from=10EC293010&sourcetype=weixin&s_trans=2011592975765_5118054264999198&s_channel=5&jumpfrom=weibocom" target="_blank" rel="noopener noreferrer">Scientists develop a multi-magnetic microrobot control system to independently control multiple robots in complex 3D environments.</a>
+
        * 2024.11.15 
        <a href="https://healthcare-in-europe.com/en/news/3d-robot-navigation-multi-site-medical-procedures.html?utm_source=dlvr.it&utm_medium=twitter" target="_blank" rel="noopener noreferrer">3D robot navigation could enable multi-site medical procedures.</a>
+       
        * 2023.07.27 
        <a href="https://m.weibo.cn/status/4927462331653267?jumpfrom=weibocom&wm=3333_2001&from=10D7293010&sourcetype=weixin&s_trans=2011592975765_4927462331653267&s_channel=4" target="_blank" rel="noopener noreferrer">The Max Planck team develops a wireless miniature soft robot capable of measuring the physiological properties of biological tissues.</a>
 

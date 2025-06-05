@@ -124,8 +124,10 @@ sections:
       title: ''
       subtitle: ''
       text: |-
+       <div class="expertise-block">
+       
        ---
-        > To explore further details, please navigate to other tabs (Upper right).😃
+        To explore further details, please navigate to other tabs (Upper right).😃
        ---
     design:
       columns: '1'
