@@ -143,22 +143,22 @@ skills:
       - name: Image processing
         description: ''
         percent: 60
-        icon: devicon/opencv
+        icon: devicon/opencv-plain
           
       - name: Object tracking
         description: 'Detection, Segmentation, Tracking'
         percent: 100
-        icon: devicon/pytorch
+        icon: devicon/pytorch-plain
           
       - name: Medical imaging
         description: 'X-ray, Ultrasound, Photo-acoustic.'
         percent: 60
-        icon: devicon/spack
+        icon: devicon/spack-plain
           
       - name: Generative models
         description: 'Diffusion model, VAE.'
         percent: 80
-        icon: devicon/openapi
+        icon: devicon/openapi-plain
           
       - name: ''
         description: '> Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
@@ -172,7 +172,8 @@ skills:
       - name: Robotic systems
         description: 'Closed-loop control integrating medical imaging with robotic arm manipulation'
         percent: 60
-        icon: ros
+        icon: devicon/ros-original-wordmark
+        
       - name: Optimal filtering
         description: 'e.g. Adaptive Kalman Filter, Particle Filter.'
         percent: 100
