@@ -164,6 +164,7 @@ skills:
         description: 'Python, OpenCV, Scikit-learn, Pytorch, Tensorflow...'
         percent: 80
         icon: ''
+
 skillsother:
   - name: Soft robotics
     items:
