@@ -8,8 +8,8 @@ design:
   spacing: '6rem'
 
 # Page sections
-sections:
-  - block: markdown
+# sections:
+#   - block: markdown
     # content:
     #   title: 'Research Interests'
     #   subtitle: ''
