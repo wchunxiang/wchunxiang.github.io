@@ -81,7 +81,7 @@ education:
     date_start: 2015-09-01
     date_end: 2019-07-01
     summary: |
-      * GPA: 93.9/100
+      * GPA: 93.75/100
       * Graduated summa cum laude
       * Best Graduation Thesis (Top 2% within HIT).
       * Thesis: Multi-object tracking of zebrafish larvae.
