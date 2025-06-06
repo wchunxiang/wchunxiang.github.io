@@ -62,7 +62,7 @@ education:
     date_start: 2021-09-01
     date_end: 2025-09-30
     summary: |
-      Thesis on Advanced Functional Soft Miniature Robotic Systems for Biomedical Applications. Supervised by [Prof. Metin Sitti](https://scholar.google.com/citations?user=YU4Ce_MAAAAJ&hl=en&oi=ao) (Member, National Academy of Engineering, USA; Chief Scientist, Huawei Co. Ltd.). 
+      Thesis on Advanced Functional Soft Miniature Robotic Systems for Biomedical Applications. Supervised by [Prof. Metin Sitti](https://scholar.google.com/citations?user=YU4Ce_MAAAAJ&hl=en&oi=ao) (Member National Academy of Engineering, USA). 
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
