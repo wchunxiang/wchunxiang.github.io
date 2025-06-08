@@ -25,6 +25,22 @@ sections:
       columns: '1'
       spacing:
         padding: [0, 0, 0, 0]
+  
+  - block: markdown
+    content:
+      title: 'Peer Reviewer'
+      subtitle: ''
+      text: |-
+       <div class="expertise-block">
+
+        - IEEE/ASME Transactions on Mechatronics (T-Mech)
+        - IEEE Transactions on Cybernetics
+        - IEEE International Conference on Robotics and Automation (ICRA)
+        - Research
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
 
   - block: collection
     id: papers
